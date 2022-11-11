@@ -1,10 +1,2 @@
-File B sdfsdf 
-
-
-sdfsdf
-sdfsdfsdf
-
-sf
-
-
-hola mundo
+file B
+Changes 
